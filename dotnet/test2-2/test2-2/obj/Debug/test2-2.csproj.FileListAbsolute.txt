@@ -1,0 +1,6 @@
+E:\学习\dot net 实验\test2-2\test2-2\bin\Debug\test2-2.exe.config
+E:\学习\dot net 实验\test2-2\test2-2\bin\Debug\test2-2.exe
+E:\学习\dot net 实验\test2-2\test2-2\bin\Debug\test2-2.pdb
+E:\学习\dot net 实验\test2-2\test2-2\obj\Debug\test2-2.csprojResolveAssemblyReference.cache
+E:\学习\dot net 实验\test2-2\test2-2\obj\Debug\test2-2.exe
+E:\学习\dot net 实验\test2-2\test2-2\obj\Debug\test2-2.pdb

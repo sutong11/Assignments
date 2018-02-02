@@ -1,0 +1,104 @@
+body {
+	TEXT-ALIGN: center;
+	margin-top: 200px
+}
+.blur { 
+	position:absolute;
+	top:0px;
+	left:0px; 
+   -webkit-filter: blur(10px); /* Chrome, Opera */
+      -moz-filter: blur(10px);
+       -ms-filter: blur(10px);   
+           filter: blur(10px); 
+          
+}
+.header{
+	position:absolute;
+	top:0px;
+	left:0px;
+	height:70px;
+	width:100%;
+	background-color: #2f3238;
+}
+
+.h_left{
+	position:absolute;
+	top:15px;
+	left:150px;
+	font-size: 30px;
+	color:#fff;
+}
+.h_right{
+	position:absolute;
+	top:15px;
+	left:850px;
+	height:35px;
+	width:auto;
+	border-radius:10px;
+	font-size: 30px;
+}
+
+.h_right a{
+	text-decoration: none;
+}
+
+.h_right:hover{
+	background:#b6e86c;
+	text-decoration: none;
+}
+.choose{
+	position:absolute;
+	height:auto;
+	width:110px;
+	left:400px;
+	top:120px;
+}
+
+.pick{
+	position:absolute;
+	left:520px;
+	top:120px;
+}
+.pic{
+	position:absolute;
+	top:165px;
+	left:520px
+}
+.comment{
+	position:absolute;
+	height:auto;
+	width:110px;
+	left:395px;
+	top:210px;
+}
+.t1{
+	position:absolute;
+	left:520px;
+	top:210px;
+	border-radius:5px; 
+}
+.btn1{
+	position:absolute;
+	left:520px;
+	top:340px;
+}
+
+.btn2{
+	position:absolute;
+	left:680px;
+	top:340px;
+}
+
+.btn{
+	height:40px;
+	width:80px;
+	color:white;
+	background-color:#6666EE;
+	border-color: #6666EE;
+	border-radius:5px;
+}
+
+.btn:hover{
+	background-color:#82d2d2;
+	border-color: #82d2d2;
+}

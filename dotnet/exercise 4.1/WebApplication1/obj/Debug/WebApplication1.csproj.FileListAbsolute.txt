@@ -1,0 +1,136 @@
+F:\c#程序\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\c#程序\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\DotNetOpenAuth.AspNet.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\DotNetOpenAuth.Core.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\EntityFramework.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\WebGrease.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\EntityFramework.xml
+F:\c#程序\WebApplication1\WebApplication1\bin\DotNetOpenAuth.Core.xml
+F:\c#程序\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.xml
+F:\c#程序\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\c#程序\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.xml
+F:\c#程序\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\c#程序\WebApplication1\WebApplication1\bin\DotNetOpenAuth.AspNet.xml
+F:\c#程序\WebApplication1\WebApplication1\bin\zh-Hans\EntityFramework.resources.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Optimization.resources.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Providers.resources.dll
+F:\c#程序\WebApplication1\WebApplication1\bin\zh-Hans\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+F:\c#程序\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\c#程序\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\c#程序\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\c#程序\实验四.1\WebApplication1\bin\WebApplication1.dll
+F:\c#程序\实验四.1\WebApplication1\bin\WebApplication1.pdb
+F:\c#程序\实验四.1\WebApplication1\bin\Antlr3.Runtime.dll
+F:\c#程序\实验四.1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+F:\c#程序\实验四.1\WebApplication1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+F:\c#程序\实验四.1\WebApplication1\bin\DotNetOpenAuth.AspNet.dll
+F:\c#程序\实验四.1\WebApplication1\bin\DotNetOpenAuth.Core.dll
+F:\c#程序\实验四.1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\c#程序\实验四.1\WebApplication1\bin\DotNetOpenAuth.OAuth.dll
+F:\c#程序\实验四.1\WebApplication1\bin\DotNetOpenAuth.OpenId.dll
+F:\c#程序\实验四.1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\c#程序\实验四.1\WebApplication1\bin\EntityFramework.dll
+F:\c#程序\实验四.1\WebApplication1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+F:\c#程序\实验四.1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\c#程序\实验四.1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\c#程序\实验四.1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+F:\c#程序\实验四.1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+F:\c#程序\实验四.1\WebApplication1\bin\System.Web.Optimization.dll
+F:\c#程序\实验四.1\WebApplication1\bin\System.Web.Providers.dll
+F:\c#程序\实验四.1\WebApplication1\bin\WebGrease.dll
+F:\c#程序\实验四.1\WebApplication1\bin\EntityFramework.xml
+F:\c#程序\实验四.1\WebApplication1\bin\DotNetOpenAuth.Core.xml
+F:\c#程序\实验四.1\WebApplication1\bin\DotNetOpenAuth.OAuth.xml
+F:\c#程序\实验四.1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\c#程序\实验四.1\WebApplication1\bin\DotNetOpenAuth.OpenId.xml
+F:\c#程序\实验四.1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\c#程序\实验四.1\WebApplication1\bin\DotNetOpenAuth.AspNet.xml
+F:\c#程序\实验四.1\WebApplication1\bin\zh-Hans\EntityFramework.resources.dll
+F:\c#程序\实验四.1\WebApplication1\bin\zh-Hans\System.Web.Optimization.resources.dll
+F:\c#程序\实验四.1\WebApplication1\bin\zh-Hans\System.Web.Providers.resources.dll
+F:\c#程序\实验四.1\WebApplication1\bin\zh-Hans\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+F:\c#程序\实验四.1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\c#程序\实验四.1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\c#程序\实验四.1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\DotNetOpenAuth.Core.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\EntityFramework.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\WebGrease.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\EntityFramework.xml
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\DotNetOpenAuth.Core.xml
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\zh-Hans\System.Web.Providers.resources.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\bin\zh-Hans\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Nicole-S\Desktop\实验四.1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\WebApplication1.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\WebApplication1.pdb
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\Antlr3.Runtime.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\DotNetOpenAuth.AspNet.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\DotNetOpenAuth.Core.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\DotNetOpenAuth.OAuth.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\DotNetOpenAuth.OpenId.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\EntityFramework.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\System.Web.Optimization.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\System.Web.Providers.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\WebGrease.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\EntityFramework.xml
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\DotNetOpenAuth.Core.xml
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\DotNetOpenAuth.OAuth.xml
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\DotNetOpenAuth.OpenId.xml
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\DotNetOpenAuth.AspNet.xml
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\zh-Hans\EntityFramework.resources.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\zh-Hans\System.Web.Providers.resources.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\bin\zh-Hans\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\学习\dot net 实验\实验四.1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\学习\dot net 实验\实验四.1\WebApplication1\obj\Debug\WebApplication1.pdb

@@ -1,0 +1,346 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    color: #FFF;
+    font: 14px/2em Microsoft YaHei,SimSun,Arial;
+}
+body {
+    background: none repeat scroll 0% 0% #FFF;
+}
+a, input, button {
+    outline: medium none;
+}
+input[type="button"]{
+	width:100px;
+}	
+
+#main {
+min-height: 1400px;
+color: #fff;
+background-color: #FFF;
+}
+#player{
+background-color:#333;
+height:580px;
+margin: 0 auto;
+}
+#title{
+text-align:left;
+line-height:44px;
+padding-left:250px;
+}
+#title span{
+color:#FFF;
+font-size:20px;
+padding:0px,8px;
+}
+.btn-collection{
+color:#fff;
+text-decoration: none;
+line-height: 44px;
+margin-left:16px;
+}
+#btn-collection{
+}
+.btn-collection:hover{
+color:#C9394A;
+text-decoration: none;
+}
+a [class="icon-heart"]{
+font-size:24px;
+}
+#icon-collection{
+}
+
+#video-play{
+margin:0 auto;
+background-color:#333;
+width:1000px;
+height:530px;
+}
+#play-ending{
+margin:0 auto;
+display:none;
+width:1000px;
+height:530px;
+background-color:#5E5E5E;
+}
+.next-inner {	
+padding-top:138px;
+text-align:center;
+height: 280px;
+}
+.again {
+padding-left: 25px;
+margin:10px 0px;
+color: #FFF;
+font-size: 24px;
+background: url('../img/course_video_again.png') no-repeat scroll 0px 5px transparent;
+}
+.btn-xlarge {
+height: 60px;
+line-height: 60px;
+overflow: visible;
+font-size: 24px;
+padding: 0px 30px;
+cursor: pointer;
+border: medium none;
+background: none repeat scroll 0% 0% #C9394A;
+color: #FFF;
+display: inline-block;
+transition: all 0.25s ease 0s;
+font-family: "微软雅黑";
+margin: 10px 0px;
+overflow: visible;
+text-decoration: none;
+}
+a.again:hover {
+    color: #CFCFCF;
+    opacity: 0.6;
+}
+.btn-xlarge:hover, .btn-xlarge:focus {
+    background: none repeat scroll 0% 0% #E35061;
+    color: #FFF;
+    outline: medium none;
+    transition: all 0.25s ease 0s;
+}
+.next-inner a:hover{
+	text-decoration: none;
+}
+
+#contect{
+
+}
+.content_area {
+    
+  	margin: 0px auto;
+    min-height: 500px;
+    padding: 0px 20px 20px;
+    width: 1000px;
+    margin-top: 15px;
+}
+.course-menu {
+    border-bottom: 1px solid #D1D6DA;
+    height: 40px;
+    line-height: 40px;
+    margin-bottom: 20px;
+}
+
+.clearfix {
+}
+.course-video-menu .course-menu-item, .course-ceping-menu .course-menu-item {
+    width: 33.33%;
+}
+.course-menu li {
+    float: left;
+    text-align: center;
+    width: 33.33%;
+    margin: 0 auto;
+}
+.course-menu a {
+    display: block;
+    font-size: 16px;
+    height: 55px;
+    color: #99A0A6;
+    text-decoration: none;
+}
+.course-menu a.active {
+    border-bottom: 4px solid #C9394A;
+    color: #C9394A;
+    height: 40px;
+    text-decoration: none;
+}
+
+.course-menu .course-menu-splitor {
+    width: 1px;
+    margin-left: -1px;
+    color: #D1D6DA;
+}
+.publish-wrap {
+    position: relative;
+}
+.publish-shot {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 128px;
+    height:90px;
+}
+.publish-shot-note {
+    left: 10px;
+    top: 20px;
+}
+.shot-video-icon {
+    width: 120px;
+    height: 90px;
+    cursor: pointer;
+    background: url('../img/mod_study.png') no-repeat scroll center center #D0D6D9;
+}
+.shot-video-img {
+    width: 120px;
+    height: 90px;
+    line-height: 1em;
+}
+#note-button,#dss-button{
+border: none;
+width:120px;
+height:90px;
+background-color: #D0D6D9;
+}
+#notesImg{
+vertical-align: inherit;
+}
+
+.hide {
+    display: none;
+}
+fieldset, img {
+    border: 0px none;
+}
+.shot-video-img {
+    line-height: 1em;
+}
+.btn-close {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 22px;
+    height: 22px;
+}
+.shot-time {
+    padding: 0px;
+    text-align: center;
+    background-color: #000;
+    width: 100%;
+    color: #FFF;
+    height: 25px;
+    line-height: 25px;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+.btn-close, a.btn-close {
+    width: 25px;
+    height: 25px;
+    border: 0px none;
+    display: inline-block;
+    transition: all 0.2s ease-in 0s;
+    cursor: pointer;
+    text-indent: -200%;
+    overflow: visible;
+}
+.publish-wrap-disucss .discuss-input {
+    margin-left: 130px;
+}
+.discuss-input {
+    min-height: 90px;
+}
+.rich-text-editor {
+    line-height: 1em;
+}
+.rich-text-editor textarea {
+    width: 866px;
+    height: 140px;
+    border: 1px solid #CCC;
+    line-height: 22px;
+    color: #AAA;
+    resize: none;
+	padding-left:4px;
+	
+}
+
+.discuss-bottom {
+    padding: 10px 0px;
+}
+.course-discuss-btn:hover {
+    background-color: #33A646;
+}
+.course-discuss-btn {
+	float:right;
+    background-color: #39B94E;
+    height: 30px;
+    width: 100px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFF;
+    cursor: pointer;
+}
+.title{
+height: 32px;
+background: none repeat scroll 0% 0% #EDF0F2;
+clear: both;
+margin-top: 10px;
+padding-left:8px;
+padding-top:4px;
+font-size:16px;
+}
+.discussion-record,.note-record{
+border-top: 1px solid #DDD;
+border-bottom:1px solid #DDD;
+width:986px;
+margin:20px 0px 20px 14px;
+}
+.discussion-record span,note-record span{
+font-size: 14px;
+color: #B4BBBF;
+}
+#discussion-nick{
+color:#C9394A;;
+}
+.record-content{
+font-size:16px;
+color: #5E5E5E;
+}
+.publish-note-inner {
+    position: relative;
+    border: 1px solid #D1D6DA;
+    padding: 10px;
+    height: 122px;
+    margin-right: 110px;
+}
+
+.note-input {
+    resize: none;
+    margin-left: 130px;
+    height: 112px;
+}
+.note-input textarea {
+    width: 100%;
+    resize: none;
+    height: 112px;
+    overflow: auto;
+	border: medium none;
+	line-height: 22px;
+	color: #AAA;
+	padding:4px;
+	
+}
+.btn-square:hover {
+    background-color: #33A646;
+}
+.publish-note-btns {
+    position: absolute;
+    right: 0px;
+    top: 102px;
+    width: 100px;
+}
+.btn-square {
+    background-color: #39B94E;
+    color: #FFF;
+    cursor: pointer;
+    display: block;
+    font-size: 16px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    transition: background-color 0.3s ease 0s;
+    width: 100px;
+}
+#qa-content{
+display:block;
+}
+#note-content{
+display:none;
+}

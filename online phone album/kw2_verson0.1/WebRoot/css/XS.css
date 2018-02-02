@@ -1,0 +1,310 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    color: #5E5E5E;
+    font: 14px/2em Microsoft YaHei,SimSun,Arial;
+}
+body {
+    background: none repeat scroll 0% 0% #EDEFF0;
+}
+a, input, button {
+    outline: medium none;
+}
+#J_Login:hover,#J_Register:hover{
+	background-color:#BE3948;
+	color:#FFF;
+}	
+#header { 
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	background:#2a2c2e;
+	height:60px
+}
+#nav {
+	height: 60px;
+	margin: 0px auto;
+	background: none repeat scroll 0% 0% #2A2C2E;
+	position: relative;
+	z-index: 99;
+}
+.container {
+	width: 1024px;
+	color: #656E73;
+	padding-right:0px;
+	margin: 0px auto;
+}
+
+#logo {
+	width: 100px;
+	line-height: 60px;
+	left: 10px;
+	top: 0px;
+	position: absolute;
+}
+
+.back {
+	width: 100px;
+	line-height: 60px;
+	left: 100px;
+	top: 0px;
+	position: absolute;
+}
+
+.back a {
+	color:#FFF;
+	display: block;
+	width: 100px;
+	height: 60px;
+	line-height: 60px;
+	font-size:25px;
+}
+.back a:hover {
+    color: #C9394A;
+    text-decoration: none;
+}
+
+#logo a {
+	color:#FFF;
+	display: block;
+	width: 100px;
+	height: 60px;
+	line-height: 60px;
+	font-size:25px;
+}
+#logo a:hover {
+    color: #C9394A;
+    text-decoration: none;
+}
+
+#search-box{
+	margin-top:15px;
+	display:inline-block;
+	background-color:#EEE;
+	height:30px;
+	border-radius: 8px;
+}
+#search-text{
+	height:30px;
+	width:140px;
+	font-size:14px;
+	border:none;
+	border-radius: 8px;
+	outline:none;
+	float:left;
+	background-color:#EEE;
+	padding: 0px 2px;
+}
+#search-button{
+	height:30px;
+	width:30px;
+	float:left;
+	background-color:#EEE;
+	border: none;
+	border-radius: 8px;
+}
+[class="icon-search"]{
+	font-size: 18px;
+}
+#search-text:focus{
+	box-shadow:none;
+}
+#search-suggest{
+	background-color:#FFF;
+	width:174px;
+	border:1px solid #999;
+	display:none;
+	position:absolute
+}
+#search-suggest ul{
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+#search-suggest ul li{
+	padding:3px;
+	font-size:14px;
+	line-height:22px;
+	cursor:pointer;
+}
+#search-suggest ul li:hover{
+	background-color:#e5e5e5;
+}
+#nav-item {
+	margin: 0px 0px 0px 140px;
+	height: 60px;
+}
+.l {
+float: left;
+}
+ol, ul {
+	list-style: none outside none;
+}
+#nav-item li{ 
+	float:left;
+	font-size: 18px;
+	
+}	
+#nav-item a {
+color: #B5BDC0;
+padding: 0px 35px;
+line-height: 60px;
+display: block;
+}
+#nav-item a:hover {
+    color: #C9394A;
+    text-decoration: none;
+}
+#login-area {
+display:inline-block;
+float: right;
+}
+.login-btn {
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+width: 84px;
+height: 34px;
+margin-top: 13px;
+border-radius: 15px;
+text-align: center;
+line-height: 30px;
+font-size: 14px;
+background: none repeat scroll 0% 0% #2A2C2E;
+border: 2px solid #C9394A;
+text-decoration: none;
+color: #C9394A;
+cursor: pointer;
+}
+.register-btn{
+font-family: "微软雅黑";
+width: 84px;
+height: 34px;
+margin-top: 13px;
+border-radius: 15px;
+text-align: center;
+line-height: 30px;
+font-size: 14px;
+background: none repeat scroll 0% 0% #2A2C2E;
+border: 2px solid #C9394A;
+text-decoration: none;
+color: #C9394A;
+cursor: pointer;
+}
+.nav-pills{
+height: 30px;
+margin-top: 12px;
+}
+.nav-pills > li > a {
+background: none repeat scroll 0% 0% #2A2C2E;
+border: 2px solid #C9394A;
+}
+#mng_drop{
+color:#C9394A;
+}
+#main {
+padding: 20px 0px !important;
+min-height: 750px;
+}
+.course-sidebar {
+width:1200px;
+}
+.course-sidebar .course-sidebar-type {
+padding: 10px;
+width: 1178px;
+margin-bottom: 20px;
+border-right: 1px solid #E6E8E9;
+border-width: 0px 1px 1px;
+border-style: none solid solid;
+border-color: -moz-use-text-color #E6E8E9 #E6E8E9;
+-moz-border-top-colors: none;
+-moz-border-right-colors: none;
+-moz-border-bottom-colors: none;
+-moz-border-left-colors: none;
+border-image: none;
+background-color: #FFF;
+box-shadow: 0px 1px 2px #D5D7D8;
+}
+.course-sidebar .course-sidebar-type .course-sidebar-menu {
+overflow: hidden;
+position: relative;
+}
+
+.pull-right{
+	float:right;
+}
+.course-sidebar .course-sidebar-type .course-sidebar-menu .dot-curr {
+position: absolute;
+width: 60px;
+height: 2px;
+left: 0px;
+bottom: 0px;
+background: none repeat scroll 0% 0% #BE3948;
+}
+.course-sidebar .course-sidebar-type .course-sidebar-tabs {
+margin: 0px 10px;
+padding: 15px 0px;
+overflow: hidden;
+border-bottom: 1px solid #EDF0F2;
+}
+.course-sidebar .course-sidebar-type .course-sidebar-tabs li {
+width: 73px;
+float: left;
+line-height: 25px;
+font-size: 15px;
+}
+.course-sidebar .course-sidebar-type .course-sidebar-tabs li a:hover, .course-sidebar .course-sidebar-type .course-sidebar-tabs li a.curr {
+background: none repeat scroll 0% 0% #BE3948;
+color: #FFF;
+}
+.course-sidebar .course-sidebar-type .course-sidebar-tabs li a{
+display: block;
+text-align: center;
+cursor: pointer;
+transition: all 0.6s ease 0s;
+text-decoration: none;
+}
+.course-sidebar .focus {
+border: 1px solid #2EA7E0;
+}
+.course-content {
+	position: relative;
+	width: 1200px;
+	min-height: 720px;
+	background: none repeat scroll 0% 0% #FFF;
+}
+.course-content .course-tools {
+height: 50px;
+background: none repeat scroll 0% 0% #FFF;
+padding: 0px 20px;
+width: 1160px;
+}
+.course-content .course-tools h2 {
+padding: 10px 0px;
+line-height: 29px;
+color: #99A1A6;
+font-size: 14px;
+border-bottom: 1px solid #EDF0F2;
+}
+.course-content .course-tools .dot-tool-curr {
+position: absolute;
+width: 60px;
+height: 2px;
+right: 80px;
+top: 48px;
+background: none repeat scroll 0% 0% #7E878C;
+}
+.course-content .course-list {
+padding: 20px 10px;
+overflow: hidden;
+position: relative;
+min-height: 500px;
+}
+.row{
+margin: 0px;
+}
+.span3 {
+margin: 20px 60px;
+
+}
+#username_tips,#password_tips,#nickname_tips{
+font-size: 12px;
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Struts2Diagram version="2.0">
+  <package name="" location="0,0" size="0,0">
+    <action name="user_*" location="0,0" size="0,0" />
+    <action name="album_*" location="0,0" size="0,0" />
+    <action name="photo_*" location="0,0" size="0,0" />
+    <action name="comment_" location="0,0" size="0,0" />
+    <action name="showUpload" location="0,0" size="0,0">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="upload.jsp" />
+      </result>
+    </action>
+    <action name="upload" location="0,0" size="0,0">
+      <result name="input">
+        <resourceEdge source="input" routing="0" target="upload.jsp" />
+      </result>
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="download.jsp" />
+      </result>
+    </action>
+  </package>
+  <webResource name="index.jsp" path="/index.jsp" location="0,0" size="0,0" />
+  <webResource name="upload.jsp" path="/upload.jsp" location="0,0" size="0,0" />
+  <webResource name="download.jsp" path="/download.jsp" location="0,0" size="0,0" />
+</Struts2Diagram>
+
